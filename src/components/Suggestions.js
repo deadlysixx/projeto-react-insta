@@ -10,12 +10,12 @@ export default function Suggestions() {
         {
             link: "",
             img: "./assets/img/bad.vibes.memes.svg",
-            user: "adorable_animals",
+            user: "bad.vibe.memes",
             status: "Segue Você"
         },
         {
             link: "",
-            img: "./assets/img/chibidart.svg",
+            img: "./assets/img/chibirdart.svg",
             user: "chibidart",
             status: "Segue Você"
         },

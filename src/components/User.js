@@ -3,8 +3,8 @@ import React from "react";
 export default function User() {
 
     const users = [{
-        img: './assets/img/chibidart.svg',
-        user: 'chibidart',
+        img: './assets/img/catanacomics.svg',
+        user: 'catanacomics',
         name: 'Chibiel Dartiel'
     }];
 

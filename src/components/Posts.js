@@ -7,12 +7,23 @@ export default function Posts() {
             linkUser: "",
             imageUser: "./assets/img/meowed.svg",
             user: "meowed",
-            imagePost: "./assets/img/dog.svg",
+            imagePost: "./assets/img/gato-telefone.svg",
             linkFollower: "",
-            imageFollower: "./assets/img/chibidart.svg",
-            userFollower: " chibidart ",
+            imageFollower: "./assets/img/respondeai.svg",
+            userFollower: " respondeai ",
             linkOthers: "",
             numberPeople: 892
+        },
+        {
+            linkUser: "",
+            imageUser: "./assets/img/barked.svg",
+            user: "barked",
+            imagePost: "./assets/img/dog.svg",
+            linkFollower: "",
+            imageFollower: "./assets/img/chibirdart.svg",
+            userFollower: " chibirdart ",
+            linkOthers: "",
+            numberPeople: 133
         },
         {
             linkUser: "",
@@ -20,10 +31,10 @@ export default function Posts() {
             user: "meowed",
             imagePost: "./assets/img/dog.svg",
             linkFollower: "",
-            imageFollower: "./assets/img/chibidart.svg",
-            userFollower: " chibidart ",
+            imageFollower: "./assets/img/respondeai.svg",
+            userFollower: " respondeai ",
             linkOthers: "",
-            numberPeople: 892
+            numberPeople: 441
         },
         {
             linkUser: "",
@@ -31,10 +42,10 @@ export default function Posts() {
             user: "meowed",
             imagePost: "./assets/img/dog.svg",
             linkFollower: "",
-            imageFollower: "./assets/img/chibidart.svg",
-            userFollower: " chibidart ",
+            imageFollower: "./assets/img/chibirdart.svg",
+            userFollower: " chibirdart ",
             linkOthers: "",
-            numberPeople: 892
+            numberPeople: 13
         },
         {
             linkUser: "",
@@ -42,21 +53,10 @@ export default function Posts() {
             user: "meowed",
             imagePost: "./assets/img/dog.svg",
             linkFollower: "",
-            imageFollower: "./assets/img/chibidart.svg",
-            userFollower: " chibidart ",
+            imageFollower: "./assets/img/smallcutecats.svg",
+            userFollower: " smallcutecats ",
             linkOthers: "",
-            numberPeople: 892
-        },
-        {
-            linkUser: "",
-            imageUser: "./assets/img/meowed.svg",
-            user: "meowed",
-            imagePost: "./assets/img/dog.svg",
-            linkFollower: "",
-            imageFollower: "./assets/img/chibidart.svg",
-            userFollower: " chibidart ",
-            linkOthers: "",
-            numberPeople: 892
+            numberPeople: 55
         }
     ];
 
