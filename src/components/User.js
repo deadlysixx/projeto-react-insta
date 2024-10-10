@@ -3,9 +3,9 @@ import React from "react";
 export default function User() {
 
     const users = [{
-        img: 'https://www.google.com/imgres?q=Salatiel%20Couto&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F3540770457%2F465c722a6549e78d15a8b0dd5636ce05_400x400.jpeg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fcoutosalat&docid=5iA8Cec9NCcIMM&tbnid=e5cKP4fAqo9d5M&vet=12ahUKEwiMyYGQ1YKJAxWkD7kGHZYXDYAQM3oECBUQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiMyYGQ1YKJAxWkD7kGHZYXDYAQM3oECBUQAA',
-        user: 'salat.couto',
-        name: 'Salatiel Couto'
+        img: './assets/img/chibidart.svg',
+        user: 'chibidart',
+        name: 'Chibiel Dartiel'
     }];
 
     return (

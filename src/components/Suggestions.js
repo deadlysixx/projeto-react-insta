@@ -3,8 +3,8 @@ export default function Suggestions() {
     const suggestions = [
         {
             link: "",
-            img: "https://www.google.com/imgres?q=dogs&imgurl=https%3A%2F%2Fi.natgeofe.com%2Fn%2F4f5aaece-3300-41a4-b2a8-ed2708a0a27c%2Fdomestic-dog_thumb_3x2.jpg&imgrefurl=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-dog&docid=VGirYKV8sLnrzM&tbnid=4jW5XqDmt4pNBM&vet=12ahUKEwiCwZmh1IKJAxWpH7kGHd-yBpYQM3oFCIYBEAA..i&w=3072&h=2048&hcb=2&itg=1&ved=2ahUKEwiCwZmh1IKJAxWpH7kGHd-yBpYQM3oFCIYBEAA",
-            user: "dogs",
+            img: "./assets/img/chibidart.svg",
+            user: "chibidart",
             status: "Segue Você"
         },
         {
