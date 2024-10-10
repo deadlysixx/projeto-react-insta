@@ -3,53 +3,43 @@ export default function Stories() {
     const stories = [
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/9gag.svg",
+            user: "9gag"
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/meowed.svg",
+            user: "meowed"
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/barked.svg",
+            user: "barked"
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/nathanwpylestrangeplanet.svg",
+            user: "nathanwpyle..."
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/wawawicomics.svg",
+            user: "wawawiwac..."
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/respondeai.svg",
+            user: "respondeai"
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/filomoderna.svg",
+            user: "filomoderna"
         },
         {
             link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
-        },
-        {
-            link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
-        },
-        {
-            link: "",
-            img: "./assets/img/dog.svg",
-            user: "DOGS..."
+            img: "./assets/img/memeriagourmet.svg",
+            user: "memeriagourmet"
         },
     ];
 
